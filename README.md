@@ -1,29 +1,32 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=00ff9d&center=true&vCenter=true&width=800&lines=Hello!+I'm+Baxtiyor;Cybersecurity+Specialist+%26+Frontend+Architect;Security+meets+beautiful+interfaces;Building+the+future+securely+%26+elegantly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=00ff9d&center=true&vCenter=true&width=680&lines=Salom!+Men+Baxtiyor;Cybersecurity+Specialist+%26+Frontend+Developer;Security+meets+beautiful+interfaces" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Specialization-Web+Application+Security+%26+Modern+Frontend-000?style=for-the-badge&logo=react&logoColor=61DAFB&color=00d4ff" />
-  <img src="https://img.shields.io/badge/Philosophy-Security+should+feel+magical+-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Red+Team+thinking+with+Pixel+perfection-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Tashkent%2C+Uzbekistan-FFD700?style=for-the-badge&logo=google-maps&logoColor=black" />
-  <img src="https://img.shields.io/badge/Current+Focus-Next.js+15+%7C+AppSec+%7C+AI+Security-purple?style=for-the-badge" />
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://img.shields.io/badge/Frontend-React・Next.js・TypeScript-000?style=for-the-badge&logo=react&logoColor=61DAFB&color=0ea5e9" alt="Frontend"/>
+  </a>
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://img.shields.io/badge/Security-Web+AppSec・Pentesting-000?style=for-the-badge&logo=linux&logoColor=white&color=ff4444" alt="Security"/>
+  </a>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Always%20learning-∞-9c27b0?style=for-the-badge" alt="Learning"/>
 </p>
 
 <br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                              │
-│   🔐 Cybersecurity & Red Teaming     →  Web/API pentesting • Secure architecture            │
-│   💻 Frontend Engineering            →  React/Next.js ecosystem • Performance obsession     │
-│   🛡️ Security-First Mindset          →  Secure by design • OWASP Top 10 • Zero Trust        │
-│   ⚡ What drives me                   →  Creating experiences that are delightful           │
-│                                       and extremely difficult to compromise                 │
-│                                                                                              │
-│   🌍 From Tashkent, Uzbekistan       →  GMT+5 timezone • Night owl developer                │
-│   ☕ Fuel                         →  Black coffee + energy drinks + good music               │
-│                                                                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🔐 Cybersecurity enthusiast       →  web & api pentesting  │
+│   💻 Frontend developer             →  modern, clean, fast   │
+│   ⚡ Philosophy                      →  beautiful outside     │
+│                                         + bulletproof inside │
+│                                                              │
+│   🌍 From Tashkent, Uzbekistan      →  GMT+5                 │
+│   🛠️ Current focus                  →  Next.js 14/15         │
+│                                         AppSec, secure coding│
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
