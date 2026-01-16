@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4500&pause=1000&color=00ff9d&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Baxtiyor;Cybersecurity+Enthusiast+%26+Frontend+Developer;Building+Secure+%26+Beautiful+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00ff9d&center=true&vCenter=true&width=750&lines=Hey!+I'm+Baxtiyor;Cybersecurity+Specialist+%26+Frontend+Architect;Security+×+Design+×+Performance=🔥" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React・Next.js・TypeScript-000?style=for-the-badge&logo=react&logoColor=61DAFB&color=0ea5e9" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Pentesting・AppSec・Red+Team-000?style=for-the-badge&logo=linux&logoColor=white&color=ff4444" />
-  <img src="https://img.shields.io/badge/Always%20Learning-New%20Things%20Every%20Day-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/From-Tashkent,Uzbekistan-FFD700?style=for-the-badge&logo=google-maps&logoColor=black" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Specialization-Web+Application+Security+%26+Modern+Frontend-000?style=for-the-badge&logo=react&logoColor=61DAFB&color=00d4ff" />
+  <img src="https://img.shields.io/badge/Philosophy-Security+should+feel+magical+-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Red+Team+thinking+with+Pixel+perfection-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C+Uzbekistan-FFD700?style=for-the-badge&logo=google-maps&logoColor=black" />
+</p>
 
 <br/>
 
 ```text
-🔐 Cybersecurity passionate      → Web & API pentesting • Secure SDLC • Threat modeling
-💻 Frontend craftsman           → Modern, performant, accessible & responsive UIs
-⚡ Philosophy                    → Beautiful interfaces deserve bulletproof security
-🛡️ Goal                         → Create products that look amazing and are hard to break
+🔐 Security-first developer     → Web/API pentesting • Secure SDLC • Threat modeling • Zero Trust
+💻 Frontend craftsman          → React/Next.js ecosystem • Performance obsession • Accessibility champion
+🛡️ Philosophy                  → The best user experience is the one that is both delightful and unbreakable
+⚡ Currently exploring           → Next.js 15 + React Compiler • AI-assisted security workflows • WebGPU experiments
