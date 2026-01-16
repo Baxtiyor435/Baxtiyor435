@@ -1,29 +1,50 @@
----
+# 👋 Hi, I'm Baxtiyor
 
-## ⚙️ Technologies I Use (Animated)
+## 🚀 Cybersecurity Specialist & Front-End Developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,git,github,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
+I build **secure, modern, and user-friendly web applications**.  
+My focus is on **security-first development** and clean UI/UX.
 
 ---
 
-## 🚀 Tech Stack Motion
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=tokyonight&stack=HTML,CSS,JavaScript,React,Next.js,Tailwind,GIT,GitHub,Linux" />
-</p>
+## 🛡️ Cybersecurity Skills
+- Web Security (OWASP Top 10)
+- Vulnerability Assessment
+- Basic Penetration Testing
+- Secure Authentication & Authorization
+- Network Fundamentals
 
 ---
 
-## 🌊 Animated Wave
+## 💻 Front-End Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- React / Next.js
+- Responsive & Mobile-First Design
+- REST API Integration
+- Performance Optimization
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3"/>
-</p>
+---
 
-└──────────────────────────────────────────────────────────────┘
+## 🧰 Tools & Technologies
+- Git & GitHub
+- Linux
+- VS Code
+- Figma
+- Postman
+
+---
+
+## 📌 What I Care About
+- 🔐 Security by design  
+- ⚡ Fast & optimized interfaces  
+- 🧠 Clean and maintainable code  
+
+---
+
+## 📫 Contact
+- GitHub: `@yourusername`
+- Email: your@email.com
+
+---
+
+⭐ Feel free to check my repositories and leave a star!
